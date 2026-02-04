@@ -11,7 +11,7 @@ on:
 
 env:
   BUILD_TYPE: Release
-
+ 
 jobs:
   check-version:
     name: Check latest Aseprite release
